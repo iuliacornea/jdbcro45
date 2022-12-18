@@ -1,4 +1,4 @@
-package org.example;
+package org.example.day1;
 
 import java.sql.Connection;
 import java.sql.ResultSet;

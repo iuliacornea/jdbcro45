@@ -1,9 +1,9 @@
-package org.example;
+package org.example.day1;
 
 
 import java.sql.*;
 
-public class JdbcConnectionExample {
+public class JdbcDirectConnectionExample {
     public static void main(String[] args) {
 
         try {
